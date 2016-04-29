@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/server/server.config.js"],"names":[],"mappings":";;AAAA,OAAO,OAAP,GAAiB;AACf,QAAM;AACJ,UAAM,IADF;AAEJ,UAAM;AAFF,GADS;AAKf,WAAS,CAAC,WAAD;AALM,CAAjB","file":"server.config.js","sourcesContent":["module.exports = {\r\n  host: {\r\n    port: 3001,\r\n    root: '/api'\r\n  },\r\n  origins: ['localhost']\r\n};\r\n"]}
