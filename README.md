@@ -1,8 +1,10 @@
-# Stock Charts (prototype) #
+# React Board #
 
-A list of charts is populated from the local database.json file via a mock api.
+Dashboard built with React and Google Material.
 
-Charts can be dragged from this list onto the work area, repositioned and resized. 
+This demo shows a menu of chart items populated from the local database.json file via a mock api.
+
+Items can be dragged from the menu onto the work area, repositioned and resized. 
 When resized the displayed data adapts to show more detail.
 It is possible to change between different chart types.
 
