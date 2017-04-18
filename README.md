@@ -1,6 +1,6 @@
 # React Board #
 
-Dashboard built with React and Google Material.
+Dashboard built with React and Material Design.
 
 This demo shows a menu of chart items populated from the local database.json file via a mock api.
 
