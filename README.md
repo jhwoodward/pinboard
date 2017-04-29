@@ -1,4 +1,4 @@
-# React Board #
+# Pinboard #
 
 Dashboard built with React and Material Design.
 
